@@ -13,31 +13,28 @@ Serves as the main menu for the report .
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/0445c053-e1ef-4b7b-869c-83282c37c807" />
 
 # Page 2: Marketing Analytics
-<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/fbb26f49-bf28-4af8-9d8c-b69459275e7b" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/919cace5-4b45-4733-8dd2-ab37eb9a35e7" />
 
-Core KPIs: Total Campaigns, Conversion Rate, Total Revenue, Total Profit, and ROAS.
-
-Visuals: Campaign distribution by channel, efficiency matrix (Spend vs. Profit), and Ad Budget Efficiency.
-
-Data Table: Breakdown of campaigns (e.g., Weekend Special, Referral Program) by CPA, CPC, and CPM.
+  **Insights:**
+- The marketing cycle slows down at the beginning and end of the year, while activity increases sharply in the middle of the year.
+- E-commerce is the main channel driving business growth.
+- The customer group that generates the most profit is new customers.
+- The company's flagship campaign is the referral program, which generates the highest profit and has the best CPA, CTR, and CPM metrics in the entire campaign.
 
 # Page 3: Customer & Feedback Analytics
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/2a8b6842-0c82-4b01-a784-9de23e8d4b67" />
 
-Core KPIs: Total Customers, Total Revenue, Total Feedbacks, Rating, and Feedback Rate.
-
-
-Visuals: Monthly average ratings, sentiment analysis (Positive vs. Negative), and revenue by customer segment.
-
-
-Geospatial: Treemap of highest revenue areas by city.
+**Insights:**
+- High response rates but only average ratings suggest the main contributor is the neutral group.
+- Customers are heavily concentrated in urban areas; increased efforts in this group are needed for rapid growth.
+- On the other hand, to expand operations for business research, considering areas with stable growth over the recent two years.
 
 # Page 4: Operations & Product Analytics
 <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/91612eab-2319-4c28-b14a-d78bfaf7c794" />
 
+**Insights:**
 
-Core KPIs: Total Revenue, Total Units, Total Orders, Margin %, and Avg Delivery Minutes.
 
-Visuals: Revenue contribution by category, payment method distribution, and delivery performance by product type.
 
-Matrix: Product efficiency mapping units sold against margin.
+
+
