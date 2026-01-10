@@ -5,10 +5,10 @@ Blinkit is one of the largest supermarket chains with a wide variety of products
 
 ## DATASET
 Description: The blinkit dataset consists of CSV files 
-- blinkit_marketing_performance (5400 rows, 11 columns: campaign_id, campaign_name, date, target_audience, channel, impresion, ..)
+- blinkit_marketing_performance (5400 rows, 11 columns: campaign_id, campaign_name, date, target_audience, channel, impresion, ...)
 - blinkit_feedback (5000 rows, 8 columns: feedback_id, order_id, customer_id, rating, feedback_text, feedback_category, ...)
 - blinkit_customers (2500 rows, 11 columns: customer_id, customer_name, email, phone, address, area, ...)
-- blinkit_orders (5000 rows, 10 columns: order_id, customer_id,	order_date,	promised_delivery_time,	actual_delivery_time, ...)
+- blinkit_orders (5000 rows, 10 columns: order_id, customer_id,	order_date,	promised_delivery_time, ...)
 - blinkit_order_items (5000 rows, 4 columns: order_id,	product_id,	quantity, unit_price)
 - blinkit_products (268 rows, 10 columns: product_id,	product_name,	category,	brand,	price,	mrp, ...)
 
