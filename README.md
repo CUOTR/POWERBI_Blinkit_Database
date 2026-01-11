@@ -1,4 +1,4 @@
-# BLINKIT-PERFORMANCE-DASHBOARD-POWERBI
+# BLINKIT PERFORMANCE DASHBOARD-POWERBI
 
 ## BUSINESS PROBLEM
 Blinkit is one of the largest supermarket chains with a wide variety of products in the Indian market. To assess business performance, customer satisfaction, and inventory management, the company needs to create an interactive dashboard to easily access information, find solutions, and make decisions to address immediate issues.
